@@ -1,7 +1,7 @@
 <html lang="en">
 
 <head>
-  <title>PHP Deez</title>
+  <title>PHPOps</title>
 
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
@@ -41,7 +41,7 @@
 
   <div class="container-fluid">
     <div class="jumbotron bg-primary text-white text-center">
-      <h1>PHP Deez</h1>
+      <h1>PHPOps</h1>
     </div>
 
     <div class="row">
@@ -139,7 +139,7 @@
               <label for="deleteId">Course ID:</label>
               <input type="text" class="form-control" id="deleteId" name="id">
             </div>
-            <button type="submit" class="btn btn-primary">Delete</button>
+            <button type="submit" class="btn btn-danger">Delete</button>
           </form>
         </section>
       </main>
@@ -150,7 +150,7 @@
   <!-- Footer -->
   <footer class="footer mt-auto py-3 bg-light">
     <div class="container text-center">
-      <span class="text-muted">&copy; 2024 PHP Deez CRUD App</span>
+      <span class="text-muted">&copy; 2024 PHPOps CRUD App</span>
     </div>
   </footer>
 
